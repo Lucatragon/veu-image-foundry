@@ -1,3 +1,5 @@
+cloned from Lucatragon/AZGL/LICENSE
+
 ==================================================================================
                     ARTZENCRAFT GENERALIZED LICENSE (AZGLv1)
                             Version 1.0 (2026)
